@@ -54,5 +54,5 @@
 
 ### 📫 Como me encontrar
 
-- 💼 LinkedIn: [SeuPerfilLinkedIn](https://www.linkedin.com/in/marcelo-carvalho-s/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcelo-carvalho-s/)
 - 📬 Email: marcellodf1@gmail.com

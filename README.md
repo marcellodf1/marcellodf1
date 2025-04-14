@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/X8J0tGZEXvvfe3AcqT/giphy.gif" width="100%" alt="Cabeçalho moderno">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Cabeçalho GitHub Code">
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou o Marcelo Carvalho</h1>

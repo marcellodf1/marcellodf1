@@ -1,10 +1,12 @@
 <h1 align="center">Olá! 👋 Eu sou o Marcelo Carvalho</h1>
-<p align="center">🎓 Estudante de Ciência de Dados | 💻 Gamer, apaixonado por tecnonolia e inovação</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Amante+da+tecnologia+e+dados;Explorando+Python%2C+SQL%2C+JS+e+React" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 </div>
-
 ---
 
 ### 👨‍💼 Sobre mim

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Banner animado com código" />
+  <img src="https://via.placeholder.com/1200x400.png?text=Meu+GitHub+%7C+Marcelo+Carvalho" width="100%" alt="Cabeçalho com imagem" />
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou o Marcelo Carvalho</h1>

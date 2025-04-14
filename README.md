@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/SeuUsuario/SeuUsuario/blob/output/github-contribution-grid-snake.svg)
+[![SeuNome GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuNome)](https://github.com/SeuNome/github-readme-stats)

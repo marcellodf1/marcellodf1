@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Marcelo+Carvalho;Ci%C3%AAncia+de+Dados+%7C+Python+%7C+SQL+%7C+Front-end" alt="Cabeçalho animado" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Banner animado com código" />
 </p>
 
 <h1 align="center">Olá! 👋 Eu sou o Marcelo Carvalho</h1>

@@ -5,7 +5,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Marcelo Carvalho</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+Ciência+de+Dados;Amante+de+tecnologia+Inovação;Explorando+Python+SQL+JS+e+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+Ciência+de+Dados;Amante+de+tecnologia+Inovação;Explorando+Python+SQL+JS" alt="Typing SVG" />
 </p>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">           <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400">

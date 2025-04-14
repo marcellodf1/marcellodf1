@@ -1,1 +1,52 @@
-[![SeuNome GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuNome)](https://github.com/SeuNome/github-readme-stats)
+<h1 align="center">Olá! 👋 Eu sou o Marcelo Carvalho</h1>
+<p align="center">🎓 Estudante de Ciência de Dados | 💻 Gamer, apaixonado por tecnonolia e inovação</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+</div>
+
+---
+
+### 👨‍💼 Sobre mim
+
+- 🧔 Nome: **Marcelo Carvalho**  
+- 🎂 Idade: **36 anos**
+- 📍 Cidade: **Brasília - DF**  
+- 🎯 Objetivo: **Estudante de Ciência de Dados em constante evolução**  
+- 🌱 Aprendendo todos os dias e praticando com projetos reais!
+
+---
+
+### 🧰 Linguagens e Tecnologias
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical" width="48%">
+</p>
+
+---
+
+### 🚀 Um pouco de diversão
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250">
+  <p>Programando e sempre com café ☕</p>
+</div>
+
+---
+
+### 📫 Como me encontrar
+
+- 💼 LinkedIn: [SeuPerfilLinkedIn](https://www.linkedin.com/in/marcelo-carvalho-s/)
+- 📬 Email: marcellodf1@gmail.com

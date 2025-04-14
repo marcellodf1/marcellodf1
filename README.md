@@ -5,6 +5,10 @@
 </p>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">           <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Amante+da+tecnologia+e+dados;Explorando+Python%2C+SQL%2C+JS+e+React" alt="Typing SVG" />
+</p>
+
 
 ---
 
